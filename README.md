@@ -40,24 +40,24 @@ The business challenge addressed in this project is:
 
 ## 🛠 Tools & Technologies
 
-  **🧰 Tools Used**
-* Programming Language: Python
-* Development Environment: Google Colab, Excel
+**🧰 Tools Used**
+Programming Language: Python
+Development Environment: Google Colab, Excel
   
-  **📚 Python Libraries**
-* NumPy – numerical operations and array handling
-* Pandas – data cleaning, transformation, aggregation, and analysis
-* Matplotlib – data visualization and exploratory plotting
-* Seaborn – statistical and trend-based visualizations
+**📚 Python Libraries**
+NumPy – numerical operations and array handling
+Pandas – data cleaning, transformation, aggregation, and analysis
+Matplotlib – data visualization and exploratory plotting
+Seaborn – statistical and trend-based visualizations
   
-  **🔎 Analytical Techniques**
+**🔎 Analytical Techniques**
 *  Data cleaning and validation
 *  Exploratory Data Analysis (EDA)
 *  Descriptive statistical analysis
 *  Trend and behavioral pattern identification
 *  Insight quantification using visual and statistical evidence
 
-   **Documentation:** PowerPoint
+   **📊Documentation:** PowerPoint
 
 ---
 
