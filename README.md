@@ -27,7 +27,7 @@ The business challenge addressed in this project is:
 ## 📂 Dataset Description
 
 * **Dataset:** FitBit Fitness Tracker Data
-* **Source:** Public dataset (Kaggle)
+* **Source:** Public dataset (Kaggle) https://www.kaggle.com/datasets/arashnic/fitbit
 * **Data Type:** Daily activity, steps, calories burned, and sedentary minutes
 * **Time Period:** Multiple weeks of user-level activity data
 * **Data Scope:**
